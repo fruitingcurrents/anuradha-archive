@@ -7,11 +7,12 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: aslfkjg
+  baseUrl: fruitingcurrents.github.io/anuradha-archive
   ignorePatterns:
     - private
     - templates
     - .obsidian
+    - .git
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
